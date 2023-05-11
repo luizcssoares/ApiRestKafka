@@ -1,2 +1,2 @@
 # ApiRestKafka
-Api Rest usando Apache KAFKA
+Api Rest em Spring Boot usando Apache KAFKA
